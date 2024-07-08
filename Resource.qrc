@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/ico/chen.ico</file>
+        <file>Resource/fragmentShader.frag</file>
+        <file>Resource/vertexShader.vert</file>
+        <file>Resource/ico/yun.ico</file>
+        <file>Resource/ico/N.ico</file>
+    </qresource>
+</RCC>
